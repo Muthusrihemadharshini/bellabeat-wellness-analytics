@@ -2,6 +2,7 @@
 
 ## 🚀 Overview
 Analyzed smart device usage data (Fitbit dataset) to uncover patterns in user activity, sleep, and heart rate behavior, and translate these insights into actionable marketing strategies for Bellabeat.
+
 ---
 
 ## 🎯 Business Objective
@@ -153,4 +154,4 @@ Balance between activity and rest is critical for overall wellness.
 
 ## 👩‍💻 Author
 **Muthusri Hemadharshini S.A.**  
-[LinkedIn](PASTE_LINK) | [GitHub](PASTE_LINK)
+[LinkedIn](https://www.linkedin.com/in/muthusrihemadharshini-sa-18934228a/) | [GitHub](https://github.com/Muthusrihemadharshini)
